@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OpenAIドキュメント - 日本語版',
+  title: '飞鸟集 · 文档',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://offshoreview.xyz',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://openai.com/favicon.ico',
+  favicon: 'https://www.offshoreview.xyz/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'ja',
-    locales: ['ja'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
   presets: [
@@ -53,20 +53,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'OpenAIドキュメント（日本語版）',
+        title: '飞鸟集 · 文档',
         logo: {
           alt: 'サイトのロゴ',
-          src: 'https://openai.xiniushu.com/img/logo.png',
+          src: 'https://www.offshoreview.xyz/favicon.ico',
         },
         items: [
           {
-            href: 'https://github.com/openai/openai-cookbook',
-            label: 'Cookbook',
+            href: 'https://www.offshoreview.xyz',
+            label: '注册 & 登录',
             position: 'right',
           },
           {
-            href: 'https://openai.com/',
-            label: 'OpenAI 公式',
+            href: 'https://ai.offshoreview.xyz',
+            label: '飞鸟 Chat(GPT)',
             position: 'right',
           },          
         ],

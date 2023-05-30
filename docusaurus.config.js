@@ -29,12 +29,13 @@ const config = {
 
   presets: [
     [
-      'classic',
+      '@tarslib/docusaurus-preset',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
+          routeBasePath: '/',          
         },
         blog: {
           showReadingTime: true,
@@ -65,7 +66,7 @@ const config = {
           },
           {
             href: 'https://openai.com/',
-            label: 'OpenAI公式',
+            label: 'OpenAI 公式',
             position: 'right',
           },          
         ],

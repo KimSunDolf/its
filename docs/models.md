@@ -104,7 +104,7 @@ Codexモデルは限定テスト期間に無料で使用でき、低下した[�
 
 ### 特定機能モデル
 
-主なCodexモデルは[テキスト補完(Completion)](https://platform.openai.com/docs/guides/completion)エンドポイントと一緒に使うことを目指しています。私たちはまた、私たちのエンドポイント専用の[埋め込み作成(Embedding)](https://platform.openai.com/docs/guides/embeddings)と[編集コード](https)を提供します。://Platform.openai.com/docs/guides/code/editing-code)。
+主なCodexモデルは[テキスト補完(Completion)](https://platform.openai.com/docs/guides/completion)エンドポイントと一緒に使うことを目指しています。私たちはまた、私たちのエンドポイント専用の[埋め込み作成(Embedding)](https://platform.openai.com/docs/guides/embeddings)と[編集コード](https://platform.openai.com/docs/guides/code/editing-code)を提供します。
 
 ___
 

@@ -1,0 +1,8 @@
+{
+  "label": "プラグイン",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "OpenAIのプラグインの詳細情報を確認できます。ここからOpenAIのプラグインを利用し始まることができます。"
+  }
+}
